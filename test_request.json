@@ -1,0 +1,9 @@
+{
+  "tool_name": "create_ticket",
+  "parameters": {
+    "title": "Test ticket",
+    "description": "Test description for troubleshooting",
+    "priority": "high",
+    "reporter": "test_user"
+  }
+}
