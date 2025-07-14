@@ -946,14 +946,6 @@ python -m pytest --cov=app tests/
 ## �📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Microsoft Semantic Kernel Team** - For the excellent AI orchestration framework
-- **Anthropic & MCP Community** - For the Model Context Protocol specification
-- **FastAPI Team** - For the high-performance web framework
-- **Azure OpenAI** - For providing the underlying AI capabilities
-
 ---
 
 **Built with ❤️ using Model Context Protocol, Semantic Kernel, and Azure OpenAI**
