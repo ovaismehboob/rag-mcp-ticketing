@@ -14,6 +14,14 @@ A comprehensive demonstration of building intelligent support ticket systems usi
 - 🎨 **Modern Web UI** - Responsive chat interface with real-time updates
 - 🏗️ **Production Architecture** - Clean separation of concerns, proper error handling
 
+## 🖥️ User Interface Preview
+
+The system provides a clean, modern chat interface for interacting with the AI-powered ticketing system:
+
+![Ticketing System UI](ui.png)
+
+*The web interface features a responsive Bootstrap-based design with real-time chat, quick action buttons, and an intuitive layout for seamless ticket management through natural language conversations.*
+
 ## � What You'll Learn
 
 - How to implement the **Model Context Protocol (MCP)** for AI tool integration
