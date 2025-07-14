@@ -204,13 +204,6 @@ curl -X POST "http://localhost:8000/mcp/call_tool" \
     "parameters": {"limit": 5}
   }'
 ```
-                           │                         │
-                           │ • GPT-3.5-Turbo        │
-                           │ • Function Calling      │
-                           │ • Chat Completions      │
-                           │ • Embeddings (Future)   │
-                           └─────────────────────────┘
-```
 
 ## 🎯 Key Features
 
